@@ -8,7 +8,7 @@
 
 Este projeto é uma API Restful desenvolvida em **Java** utilizando o framework **Spring Boot** e o banco de dados NoSQL **MongoDB**.
 
-[cite_start]O objetivo principal foi explorar as capacidades do Spring Data MongoDB, entendendo as diferenças entre modelagem de dados relacional e orientada a documentos[cite: 375]. O projeto aborda a implementação de operações de CRUD, tratamento de exceções, padrões de projeto e consultas personalizadas.
+O objetivo principal foi explorar as capacidades do Spring Data MongoDB, entendendo as diferenças entre modelagem de dados relacional e orientada a documentos. O projeto aborda a implementação de operações de CRUD, tratamento de exceções, padrões de projeto e consultas personalizadas.
 
 ## Funcionalidades
 
